@@ -1,4 +1,4 @@
-plone-skel
+plone-src
 ==========
 Este projeto tem o objetivo de ser o esqueleto base para criar ambientes plone, com zodb separado.
 
