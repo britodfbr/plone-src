@@ -2,7 +2,7 @@ plone-src
 ==========
 Este projeto tem o objetivo de ser o esqueleto base para criar ambientes plone, com zodb separado.
 
-Documentação em http://brito.blog.incolume.com.br/2014/08/plone-skel.html
+Documentação em http://brito.blog.incolume.com.br/2014/10/idg-released-com-zodb-separado.html
 
 Repositório original em https://github.com/britodfbr/plone-skel.git
 
